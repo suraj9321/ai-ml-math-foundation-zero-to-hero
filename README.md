@@ -5,8 +5,8 @@ calculus, probability, statistics, information theory and optimization. Each ide
 pictures, then checked in code.
 
 It goes with two sibling courses:
-- **Classical ML**: [`~/Documents/AI/machine-learning-learning`](https://github.com/suraj9321/classical-machine-learning-basic-to-advanced-in-steps)
-- **Deep learning**: [`~/Documents/AI/deep-learning-learning`](https://github.com/suraj9321/deep-learning-cv-nlp-llm-zero-to-hero)
+- **Classical ML**: [`classical-machine-learning-basic-to-advanced-in-steps`](https://github.com/suraj9321/classical-machine-learning-basic-to-advanced-in-steps)
+- **Deep learning**: [`deep-learning-cv-nlp-llm-zero-to-hero`](https://github.com/suraj9321/deep-learning-cv-nlp-llm-zero-to-hero)
 
 The [map below](#which-course-needs-what) shows which math module each of their modules relies on.
 

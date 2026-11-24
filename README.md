@@ -240,3 +240,7 @@ ML/DL module uses some math, do the matching math module first (see the map abov
 - When a formula looks scary, plug in tiny numbers and compute one term by hand.
 - If you're stuck on an exercise for more than 20 minutes, re-read the matching lesson section before opening the solution.
 - Commit your progress with git after each module: `git add -A && git commit -m "finished module 02"`.
+
+## License
+Released under the [MIT License](LICENSE). The recommended videos, books and papers linked in the lessons belong to their
+respective authors and are not covered by this license.
